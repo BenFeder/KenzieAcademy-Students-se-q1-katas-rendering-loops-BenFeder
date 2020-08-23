@@ -1,2 +1,658 @@
-
 /*  Put your CSS Here */
+div.gray-rectangle {
+  height: 20px;
+  width: 100px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+p.bigger {
+  font-size: 20px;
+}
+
+div.gray-rectangle1 {
+  height: 20px;
+  width: 105px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle2 {
+  height: 20px;
+  width: 110px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle3 {
+  height: 20px;
+  width: 115px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle4 {
+  height: 20px;
+  width: 120px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle5 {
+  height: 20px;
+  width: 125px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle6 {
+  height: 20px;
+  width: 130px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle7 {
+  height: 20px;
+  width: 135px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle8 {
+  height: 20px;
+  width: 140px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle9 {
+  height: 20px;
+  width: 145px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle10 {
+  height: 20px;
+  width: 150px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle11 {
+  height: 20px;
+  width: 155px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle12 {
+  height: 20px;
+  width: 160px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle13 {
+  height: 20px;
+  width: 165px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle14 {
+  height: 20px;
+  width: 170px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle15 {
+  height: 20px;
+  width: 175px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle16 {
+  height: 20px;
+  width: 180px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle17 {
+  height: 20px;
+  width: 185px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle18 {
+  height: 20px;
+  width: 190px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle19 {
+  height: 20px;
+  width: 195px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.gray-rectangle20 {
+  height: 20px;
+  width: 200px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+/* sampleArray nums: 469,755,244,245,758,450,302,20,712,71,456,21,398,339,882,848,179,535,940,472 */
+
+div.a-gray-rectangle {
+  height: 20px;
+  width: 469px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.b-gray-rectangle {
+  height: 20px;
+  width: 755px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.c-gray-rectangle {
+  height: 20px;
+  width: 244px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.d-gray-rectangle {
+  height: 20px;
+  width: 245px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.e-gray-rectangle {
+  height: 20px;
+  width: 758px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.f-gray-rectangle {
+  height: 20px;
+  width: 450px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.g-gray-rectangle {
+  height: 20px;
+  width: 302px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.h-gray-rectangle {
+  height: 20px;
+  width: 20px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.i-gray-rectangle {
+  height: 20px;
+  width: 712px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.j-gray-rectangle {
+  height: 20px;
+  width: 71px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.k-gray-rectangle {
+  height: 20px;
+  width: 456px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.l-gray-rectangle {
+  height: 20px;
+  width: 21px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.m-gray-rectangle {
+  height: 20px;
+  width: 398px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.n-gray-rectangle {
+  height: 20px;
+  width: 339px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.o-gray-rectangle {
+  height: 20px;
+  width: 882px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.p-gray-rectangle {
+  height: 20px;
+  width: 848px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.q-gray-rectangle {
+  height: 20px;
+  width: 179px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.r-gray-rectangle {
+  height: 20px;
+  width: 535px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.s-gray-rectangle {
+  height: 20px;
+  width: 940px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.tgray-rectangle {
+  height: 20px;
+  width: 472px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+/* Every other rectangle red */
+
+div.a1-gray-rectangle {
+  height: 20px;
+  width: 469px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.b1-gray-rectangle {
+  height: 20px;
+  width: 755px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.c1-gray-rectangle {
+  height: 20px;
+  width: 244px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.d1-gray-rectangle {
+  height: 20px;
+  width: 245px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.e1-gray-rectangle {
+  height: 20px;
+  width: 758px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.f1-gray-rectangle {
+  height: 20px;
+  width: 450px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.g1-gray-rectangle {
+  height: 20px;
+  width: 302px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.h1-gray-rectangle {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.i1-gray-rectangle {
+  height: 20px;
+  width: 712px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.j1-gray-rectangle {
+  height: 20px;
+  width: 71px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.k1-gray-rectangle {
+  height: 20px;
+  width: 456px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.l1-gray-rectangle {
+  height: 20px;
+  width: 21px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.m1-gray-rectangle {
+  height: 20px;
+  width: 398px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.n1-gray-rectangle {
+  height: 20px;
+  width: 339px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.o1-gray-rectangle {
+  height: 20px;
+  width: 882px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.p1-gray-rectangle {
+  height: 20px;
+  width: 848px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.q1-gray-rectangle {
+  height: 20px;
+  width: 179px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.r1-gray-rectangle {
+  height: 20px;
+  width: 535px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.s1-gray-rectangle {
+  height: 20px;
+  width: 940px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.t1gray-rectangle {
+  height: 20px;
+  width: 472px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+/* Even width rectangles red */
+
+div.a2-gray-rectangle {
+  height: 20px;
+  width: 469px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.b2-gray-rectangle {
+  height: 20px;
+  width: 755px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.c2-gray-rectangle {
+  height: 20px;
+  width: 244px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.d2-gray-rectangle {
+  height: 20px;
+  width: 245px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.e2-gray-rectangle {
+  height: 20px;
+  width: 758px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.f2-gray-rectangle {
+  height: 20px;
+  width: 450px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.g2-gray-rectangle {
+  height: 20px;
+  width: 302px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.h2-gray-rectangle {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.i2-gray-rectangle {
+  height: 20px;
+  width: 712px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.j2-gray-rectangle {
+  height: 20px;
+  width: 71px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.k2-gray-rectangle {
+  height: 20px;
+  width: 456px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.l2-gray-rectangle {
+  height: 20px;
+  width: 21px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.m2-gray-rectangle {
+  height: 20px;
+  width: 398px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.n2-gray-rectangle {
+  height: 20px;
+  width: 339px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.o2-gray-rectangle {
+  height: 20px;
+  width: 882px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.p2-gray-rectangle {
+  height: 20px;
+  width: 848px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.q2-gray-rectangle {
+  height: 20px;
+  width: 179px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.r2-gray-rectangle {
+  height: 20px;
+  width: 535px;
+  background-color: gray;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.s2-gray-rectangle {
+  height: 20px;
+  width: 940px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
+
+div.t2gray-rectangle {
+  height: 20px;
+  width: 472px;
+  background-color: red;
+  border: 0 solid black;
+  margin: 5px;
+}
